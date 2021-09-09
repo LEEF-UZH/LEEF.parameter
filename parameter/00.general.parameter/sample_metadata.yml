@@ -16,7 +16,7 @@ o2meter_sampels: <<TO BE ENTERED>>
 ### YYYYMMDD          ###
 #########################
 
-timestamp: <<TO BE ENTERED>>
+timestamp: %%TIMESTAMP%%
 
 #########################
 ### General Parameter ###
