@@ -1,3 +1,5 @@
+# v1.1.1: rename classifier_cropped to non_cropped
+
 # v1.1.0: added additional bemovi 25 classifier_cropped analysis where same classifiers as in 
   cropped are used, but the video is NOT cropped.
 
