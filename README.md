@@ -1,3 +1,5 @@
+# v1.2.0: Classifiers and corresponding yml files updated
+
 # v1.1.2: add 'instrument' field to 'flowcam_dilution.csv' file
 
 # v1.1.1: rename classifier_cropped to non_cropped
