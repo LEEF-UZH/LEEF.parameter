@@ -1,3 +1,5 @@
+# v1.2.1: Corrected bemovi 16x classifier
+
 # v1.2.0: Classifiers and corresponding yml files updated
 
 # v1.1.2: add 'instrument' field to 'flowcam_dilution.csv' file
