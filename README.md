@@ -1,5 +1,8 @@
-# v1.3.0 Flowcam updated for light at 18% increasing and constant
+# v1.4.0 Flowcam updated for light at 18% increasing and constant
 These classifiers use data from early February 2022 (and only this data, as discussed), when the light was either constant or at 18% (decreasing). Hence (if I'm not mistaken) these classifiers are to be used for the period of time where the light was between 24% and 12% (values included) (resp. constant in the control).
+
+
+# v1.3.0 DO NOT USE _ NOT CORRECT 
 
 # v1.2.1: Corrected bemovi 16x classifier
 
