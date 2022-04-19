@@ -1,5 +1,5 @@
-classifier_increasing: svm_flowcam_classifiers_increasing_trained_at_18c_december2021.rds
-classifier_constant: svm_flowcam_classifiers_18c_december2021.rds
+classifier_increasing: svm_flowcam_classifiers_18c_decrLight18_trained_earlyFeb22.rds
+classifier_constant: svm_flowcam_classifiers_18c_normLight30_trained_earlyFeb22.rds
 
 species_tracked:  
 - Chlamydomonas
