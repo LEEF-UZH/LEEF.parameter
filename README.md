@@ -1,3 +1,6 @@
+# v1.5.0: new classifiers for flowcam and videos. These classifiers use all stock culture data recorded up to date (April 2022). tests have qualitatively shown that the within treatment variance is bigger than the variance across treatments, meaning that there is only 1 classifier respectively for the flowcam, the videos 25x and the videos 16x, i.e. no different classifiers for different treatments (light vs decreasing light).
+
+
 # v1.4.0 Flowcam updated for light at 18% increasing and constant
 These classifiers use data from early February 2022 (and only this data, as discussed), when the light was either constant or at 18% (decreasing). Hence (if I'm not mistaken) these classifiers are to be used for the period of time where the light was between 24% and 12% (values included) (resp. constant in the control).
 
