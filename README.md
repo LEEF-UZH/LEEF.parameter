@@ -1,3 +1,5 @@
+# v1.5.1: Fix wrong tracked_species in yaml files
+
 # v1.5.0: new classifiers for flowcam and videos. 
 These classifiers use all stock culture data recorded up to date (April 2022). tests have qualitatively shown that the within treatment variance is bigger than the variance across treatments, meaning that there is only 1 classifier respectively for the flowcam, the videos 25x and the videos 16x, i.e. no different classifiers for different treatments (light vs decreasing light).
 

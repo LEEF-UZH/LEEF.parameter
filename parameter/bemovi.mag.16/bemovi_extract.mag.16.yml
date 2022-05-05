@@ -95,7 +95,6 @@ classifier_increasing: "svm_video_classifiers_18c_20220419_MergedData.rds"
 species_tracked:  
 - Coleps_irchel
 - Colpidium
-- Stylonychia1
 - Stylonychia2
 - Paramecium_caudatum
 - Paramecium_bursaria
