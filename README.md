@@ -1,3 +1,5 @@
+# v1.6.0: Classifier including all videos and images from the beginning of the experiment
+
 # v1.5.1: Fix wrong tracked_species in yaml files
 
 # v1.5.0: new classifiers for flowcam and videos. 
