@@ -89,16 +89,20 @@ crop_pixels:
 # classifiers and related parameter
 ##################################
 
-classifier_constant: "svm_video_classifiers_25x_20220706_MergedData.rds"
-classifier_increasing: "svm_video_classifiers_25x_20220706_MergedData.rds"
+classifiers: "svm_video_classifiers_25x.rds"
 
-species_tracked:  
+species_tracked: 
 - Coleps_irchel
 - Colpidium
 - Stylonychia2
 - Paramecium_caudatum
 - Paramecium_bursaria
 - Euplotes
+- Dexiostoma
+- Tetrahymena
+- Loxocephallus
+- Debris_and_other
+- Cryptomonas
 
 # cropping.factor: area original / area cropped
 

@@ -1,91 +1,97 @@
-file	date	bottle	composition_id	temperature_treatment	magnification	dilution_factor	sample	video
-%%TIMESTAMP%%_00091	%%DD%%.%%MM%%.%%YY%%	b_01	c_08	constant	16	1	1	1
-%%TIMESTAMP%%_00092	%%DD%%.%%MM%%.%%YY%%	b_01	c_08	constant	16	1	1	2
-%%TIMESTAMP%%_00093	%%DD%%.%%MM%%.%%YY%%	b_01	c_08	constant	16	1	1	3
-%%TIMESTAMP%%_00094	%%DD%%.%%MM%%.%%YY%%	b_02	c_02	constant	16	1	1	1
-%%TIMESTAMP%%_00095	%%DD%%.%%MM%%.%%YY%%	b_02	c_02	constant	16	1	1	2
-%%TIMESTAMP%%_00096	%%DD%%.%%MM%%.%%YY%%	b_02	c_02	constant	16	1	1	3
-%%TIMESTAMP%%_00097	%%DD%%.%%MM%%.%%YY%%	b_03	c_11	constant	16	1	1	1
-%%TIMESTAMP%%_00098	%%DD%%.%%MM%%.%%YY%%	b_03	c_11	constant	16	1	1	2
-%%TIMESTAMP%%_00099	%%DD%%.%%MM%%.%%YY%%	b_03	c_11	constant	16	1	1	3
-%%TIMESTAMP%%_00100	%%DD%%.%%MM%%.%%YY%%	b_04	c_05	constant	16	1	1	1
-%%TIMESTAMP%%_00101	%%DD%%.%%MM%%.%%YY%%	b_04	c_05	constant	16	1	1	2
-%%TIMESTAMP%%_00102	%%DD%%.%%MM%%.%%YY%%	b_04	c_05	constant	16	1	1	3
-%%TIMESTAMP%%_00103	%%DD%%.%%MM%%.%%YY%%	b_05	c_13	increasing	16	1	1	1
-%%TIMESTAMP%%_00104	%%DD%%.%%MM%%.%%YY%%	b_05	c_13	increasing	16	1	1	2
-%%TIMESTAMP%%_00105	%%DD%%.%%MM%%.%%YY%%	b_05	c_13	increasing	16	1	1	3
-%%TIMESTAMP%%_00106	%%DD%%.%%MM%%.%%YY%%	b_06	c_11	increasing	16	1	1	1
-%%TIMESTAMP%%_00107	%%DD%%.%%MM%%.%%YY%%	b_06	c_11	increasing	16	1	1	2
-%%TIMESTAMP%%_00108	%%DD%%.%%MM%%.%%YY%%	b_06	c_11	increasing	16	1	1	3
-%%TIMESTAMP%%_00109	%%DD%%.%%MM%%.%%YY%%	b_07	c_06	increasing	16	1	1	1
-%%TIMESTAMP%%_00110	%%DD%%.%%MM%%.%%YY%%	b_07	c_06	increasing	16	1	1	2
-%%TIMESTAMP%%_00111	%%DD%%.%%MM%%.%%YY%%	b_07	c_06	increasing	16	1	1	3
-%%TIMESTAMP%%_00112	%%DD%%.%%MM%%.%%YY%%	b_08	c_01	increasing	16	1	1	1
-%%TIMESTAMP%%_00113	%%DD%%.%%MM%%.%%YY%%	b_08	c_01	increasing	16	1	1	2
-%%TIMESTAMP%%_00114	%%DD%%.%%MM%%.%%YY%%	b_08	c_01	increasing	16	1	1	3
-%%TIMESTAMP%%_00115	%%DD%%.%%MM%%.%%YY%%	b_09	c_02	increasing	16	1	1	1
-%%TIMESTAMP%%_00116	%%DD%%.%%MM%%.%%YY%%	b_09	c_02	increasing	16	1	1	2
-%%TIMESTAMP%%_00117	%%DD%%.%%MM%%.%%YY%%	b_09	c_02	increasing	16	1	1	3
-%%TIMESTAMP%%_00118	%%DD%%.%%MM%%.%%YY%%	b_10	c_07	increasing	16	1	1	1
-%%TIMESTAMP%%_00119	%%DD%%.%%MM%%.%%YY%%	b_10	c_07	increasing	16	1	1	2
-%%TIMESTAMP%%_00120	%%DD%%.%%MM%%.%%YY%%	b_10	c_07	increasing	16	1	1	3
-%%TIMESTAMP%%_00121	%%DD%%.%%MM%%.%%YY%%	b_11	c_08	increasing	16	1	1	1
-%%TIMESTAMP%%_00122	%%DD%%.%%MM%%.%%YY%%	b_11	c_08	increasing	16	1	1	2
-%%TIMESTAMP%%_00123	%%DD%%.%%MM%%.%%YY%%	b_11	c_08	increasing	16	1	1	3
-%%TIMESTAMP%%_00124	%%DD%%.%%MM%%.%%YY%%	b_12	c_14	increasing	16	1	1	1
-%%TIMESTAMP%%_00125	%%DD%%.%%MM%%.%%YY%%	b_12	c_14	increasing	16	1	1	2
-%%TIMESTAMP%%_00126	%%DD%%.%%MM%%.%%YY%%	b_12	c_14	increasing	16	1	1	3
-%%TIMESTAMP%%_00127	%%DD%%.%%MM%%.%%YY%%	b_13	c_06	constant	16	1	1	1
-%%TIMESTAMP%%_00128	%%DD%%.%%MM%%.%%YY%%	b_13	c_06	constant	16	1	1	2
-%%TIMESTAMP%%_00129	%%DD%%.%%MM%%.%%YY%%	b_13	c_06	constant	16	1	1	3
-%%TIMESTAMP%%_00130	%%DD%%.%%MM%%.%%YY%%	b_14	c_03	constant	16	1	1	1
-%%TIMESTAMP%%_00131	%%DD%%.%%MM%%.%%YY%%	b_14	c_03	constant	16	1	1	2
-%%TIMESTAMP%%_00132	%%DD%%.%%MM%%.%%YY%%	b_14	c_03	constant	16	1	1	3
-%%TIMESTAMP%%_00133	%%DD%%.%%MM%%.%%YY%%	b_15	c_14	constant	16	1	1	1
-%%TIMESTAMP%%_00134	%%DD%%.%%MM%%.%%YY%%	b_15	c_14	constant	16	1	1	2
-%%TIMESTAMP%%_00135	%%DD%%.%%MM%%.%%YY%%	b_15	c_14	constant	16	1	1	3
-%%TIMESTAMP%%_00136	%%DD%%.%%MM%%.%%YY%%	b_16	c_15	constant	16	1	1	1
-%%TIMESTAMP%%_00137	%%DD%%.%%MM%%.%%YY%%	b_16	c_15	constant	16	1	1	2
-%%TIMESTAMP%%_00138	%%DD%%.%%MM%%.%%YY%%	b_16	c_15	constant	16	1	1	3
-%%TIMESTAMP%%_00139	%%DD%%.%%MM%%.%%YY%%	b_17	c_05	increasing	16	1	1	1
-%%TIMESTAMP%%_00140	%%DD%%.%%MM%%.%%YY%%	b_17	c_05	increasing	16	1	1	2
-%%TIMESTAMP%%_00141	%%DD%%.%%MM%%.%%YY%%	b_17	c_05	increasing	16	1	1	3
-%%TIMESTAMP%%_00142	%%DD%%.%%MM%%.%%YY%%	b_18	c_04	increasing	16	1	1	1
-%%TIMESTAMP%%_00143	%%DD%%.%%MM%%.%%YY%%	b_18	c_04	increasing	16	1	1	2
-%%TIMESTAMP%%_00144	%%DD%%.%%MM%%.%%YY%%	b_18	c_04	increasing	16	1	1	3
-%%TIMESTAMP%%_00145	%%DD%%.%%MM%%.%%YY%%	b_19	c_12	increasing	16	1	1	1
-%%TIMESTAMP%%_00146	%%DD%%.%%MM%%.%%YY%%	b_19	c_12	increasing	16	1	1	2
-%%TIMESTAMP%%_00147	%%DD%%.%%MM%%.%%YY%%	b_19	c_12	increasing	16	1	1	3
-%%TIMESTAMP%%_00148	%%DD%%.%%MM%%.%%YY%%	b_20	c_09	increasing	16	1	1	1
-%%TIMESTAMP%%_00149	%%DD%%.%%MM%%.%%YY%%	b_20	c_09	increasing	16	1	1	2
-%%TIMESTAMP%%_00150	%%DD%%.%%MM%%.%%YY%%	b_20	c_09	increasing	16	1	1	3
-%%TIMESTAMP%%_00151	%%DD%%.%%MM%%.%%YY%%	b_21	c_07	constant	16	1	1	1
-%%TIMESTAMP%%_00152	%%DD%%.%%MM%%.%%YY%%	b_21	c_07	constant	16	1	1	2
-%%TIMESTAMP%%_00153	%%DD%%.%%MM%%.%%YY%%	b_21	c_07	constant	16	1	1	3
-%%TIMESTAMP%%_00154	%%DD%%.%%MM%%.%%YY%%	b_22	c_10	constant	16	1	1	1
-%%TIMESTAMP%%_00155	%%DD%%.%%MM%%.%%YY%%	b_22	c_10	constant	16	1	1	2
-%%TIMESTAMP%%_00156	%%DD%%.%%MM%%.%%YY%%	b_22	c_10	constant	16	1	1	3
-%%TIMESTAMP%%_00157	%%DD%%.%%MM%%.%%YY%%	b_23	c_04	constant	16	1	1	1
-%%TIMESTAMP%%_00158	%%DD%%.%%MM%%.%%YY%%	b_23	c_04	constant	16	1	1	2
-%%TIMESTAMP%%_00159	%%DD%%.%%MM%%.%%YY%%	b_23	c_04	constant	16	1	1	3
-%%TIMESTAMP%%_00160	%%DD%%.%%MM%%.%%YY%%	b_24	c_13	constant	16	1	1	1
-%%TIMESTAMP%%_00161	%%DD%%.%%MM%%.%%YY%%	b_24	c_13	constant	16	1	1	2
-%%TIMESTAMP%%_00162	%%DD%%.%%MM%%.%%YY%%	b_24	c_13	constant	16	1	1	3
-%%TIMESTAMP%%_00163	%%DD%%.%%MM%%.%%YY%%	b_25	c_03	increasing	16	1	1	1
-%%TIMESTAMP%%_00164	%%DD%%.%%MM%%.%%YY%%	b_25	c_03	increasing	16	1	1	2
-%%TIMESTAMP%%_00165	%%DD%%.%%MM%%.%%YY%%	b_25	c_03	increasing	16	1	1	3
-%%TIMESTAMP%%_00166	%%DD%%.%%MM%%.%%YY%%	b_26	c_15	increasing	16	1	1	1
-%%TIMESTAMP%%_00167	%%DD%%.%%MM%%.%%YY%%	b_26	c_15	increasing	16	1	1	2
-%%TIMESTAMP%%_00168	%%DD%%.%%MM%%.%%YY%%	b_26	c_15	increasing	16	1	1	3
-%%TIMESTAMP%%_00169	%%DD%%.%%MM%%.%%YY%%	b_27	c_10	increasing	16	1	1	1
-%%TIMESTAMP%%_00170	%%DD%%.%%MM%%.%%YY%%	b_27	c_10	increasing	16	1	1	2
-%%TIMESTAMP%%_00171	%%DD%%.%%MM%%.%%YY%%	b_27	c_10	increasing	16	1	1	3
-%%TIMESTAMP%%_00172	%%DD%%.%%MM%%.%%YY%%	b_28	c_09	constant	16	1	1	1
-%%TIMESTAMP%%_00173	%%DD%%.%%MM%%.%%YY%%	b_28	c_09	constant	16	1	1	2
-%%TIMESTAMP%%_00174	%%DD%%.%%MM%%.%%YY%%	b_28	c_09	constant	16	1	1	3
-%%TIMESTAMP%%_00175	%%DD%%.%%MM%%.%%YY%%	b_29	c_12	constant	16	1	1	1
-%%TIMESTAMP%%_00176	%%DD%%.%%MM%%.%%YY%%	b_29	c_12	constant	16	1	1	2
-%%TIMESTAMP%%_00177	%%DD%%.%%MM%%.%%YY%%	b_29	c_12	constant	16	1	1	3
-%%TIMESTAMP%%_00178	%%DD%%.%%MM%%.%%YY%%	b_30	c_01	constant	16	1	1	1
-%%TIMESTAMP%%_00179	%%DD%%.%%MM%%.%%YY%%	b_30	c_01	constant	16	1	1	2
-%%TIMESTAMP%%_00180	%%DD%%.%%MM%%.%%YY%%	b_30	c_01	constant	16	1	1	3
+file	date	bottle	nutrient_treatment	temperature_nutrient	salt_treatment	replicate	magnification	dilution_factor	sample	video
+%%TIMESTAMP%%_00101	%%DD%%.%%MM%%.%%YY%%	b_01					16	1	1	1
+%%TIMESTAMP%%_00102	%%DD%%.%%MM%%.%%YY%%	b_01					16	1	1	2
+%%TIMESTAMP%%_00103	%%DD%%.%%MM%%.%%YY%%	b_01					16	1	1	3
+%%TIMESTAMP%%_00104	%%DD%%.%%MM%%.%%YY%%	b_02					16	1	1	1
+%%TIMESTAMP%%_00105	%%DD%%.%%MM%%.%%YY%%	b_02					16	1	1	2
+%%TIMESTAMP%%_00106	%%DD%%.%%MM%%.%%YY%%	b_02					16	1	1	3
+%%TIMESTAMP%%_00107	%%DD%%.%%MM%%.%%YY%%	b_03					16	1	1	1
+%%TIMESTAMP%%_00108	%%DD%%.%%MM%%.%%YY%%	b_03					16	1	1	2
+%%TIMESTAMP%%_00109	%%DD%%.%%MM%%.%%YY%%	b_03					16	1	1	3
+%%TIMESTAMP%%_00110	%%DD%%.%%MM%%.%%YY%%	b_04					16	1	1	1
+%%TIMESTAMP%%_00111	%%DD%%.%%MM%%.%%YY%%	b_04					16	1	1	2
+%%TIMESTAMP%%_00112	%%DD%%.%%MM%%.%%YY%%	b_04					16	1	1	3
+%%TIMESTAMP%%_00113	%%DD%%.%%MM%%.%%YY%%	b_05					16	1	1	1
+%%TIMESTAMP%%_00114	%%DD%%.%%MM%%.%%YY%%	b_05					16	1	1	2
+%%TIMESTAMP%%_00115	%%DD%%.%%MM%%.%%YY%%	b_05					16	1	1	3
+%%TIMESTAMP%%_00116	%%DD%%.%%MM%%.%%YY%%	b_06					16	1	1	1
+%%TIMESTAMP%%_00117	%%DD%%.%%MM%%.%%YY%%	b_06					16	1	1	2
+%%TIMESTAMP%%_00118	%%DD%%.%%MM%%.%%YY%%	b_06					16	1	1	3
+%%TIMESTAMP%%_00119	%%DD%%.%%MM%%.%%YY%%	b_07					16	1	1	1
+%%TIMESTAMP%%_00120	%%DD%%.%%MM%%.%%YY%%	b_07					16	1	1	2
+%%TIMESTAMP%%_00121	%%DD%%.%%MM%%.%%YY%%	b_07					16	1	1	3
+%%TIMESTAMP%%_00122	%%DD%%.%%MM%%.%%YY%%	b_08					16	1	1	1
+%%TIMESTAMP%%_00123	%%DD%%.%%MM%%.%%YY%%	b_08					16	1	1	2
+%%TIMESTAMP%%_00124	%%DD%%.%%MM%%.%%YY%%	b_08					16	1	1	3
+%%TIMESTAMP%%_00125	%%DD%%.%%MM%%.%%YY%%	b_09					16	1	1	1
+%%TIMESTAMP%%_00126	%%DD%%.%%MM%%.%%YY%%	b_09					16	1	1	2
+%%TIMESTAMP%%_00127	%%DD%%.%%MM%%.%%YY%%	b_09					16	1	1	3
+%%TIMESTAMP%%_00128	%%DD%%.%%MM%%.%%YY%%	b_10					16	1	1	1
+%%TIMESTAMP%%_00129	%%DD%%.%%MM%%.%%YY%%	b_10					16	1	1	2
+%%TIMESTAMP%%_00130	%%DD%%.%%MM%%.%%YY%%	b_10					16	1	1	3
+%%TIMESTAMP%%_00131	%%DD%%.%%MM%%.%%YY%%	b_11					16	1	1	1
+%%TIMESTAMP%%_00132	%%DD%%.%%MM%%.%%YY%%	b_11					16	1	1	2
+%%TIMESTAMP%%_00133	%%DD%%.%%MM%%.%%YY%%	b_11					16	1	1	3
+%%TIMESTAMP%%_00134	%%DD%%.%%MM%%.%%YY%%	b_12					16	1	1	1
+%%TIMESTAMP%%_00135	%%DD%%.%%MM%%.%%YY%%	b_12					16	1	1	2
+%%TIMESTAMP%%_00136	%%DD%%.%%MM%%.%%YY%%	b_12					16	1	1	3
+%%TIMESTAMP%%_00137	%%DD%%.%%MM%%.%%YY%%	b_13					16	1	1	1
+%%TIMESTAMP%%_00138	%%DD%%.%%MM%%.%%YY%%	b_13					16	1	1	2
+%%TIMESTAMP%%_00139	%%DD%%.%%MM%%.%%YY%%	b_13					16	1	1	3
+%%TIMESTAMP%%_00140	%%DD%%.%%MM%%.%%YY%%	b_14					16	1	1	1
+%%TIMESTAMP%%_00141	%%DD%%.%%MM%%.%%YY%%	b_14					16	1	1	2
+%%TIMESTAMP%%_00142	%%DD%%.%%MM%%.%%YY%%	b_14					16	1	1	3
+%%TIMESTAMP%%_00143	%%DD%%.%%MM%%.%%YY%%	b_15					16	1	1	1
+%%TIMESTAMP%%_00144	%%DD%%.%%MM%%.%%YY%%	b_15					16	1	1	2
+%%TIMESTAMP%%_00145	%%DD%%.%%MM%%.%%YY%%	b_15					16	1	1	3
+%%TIMESTAMP%%_00146	%%DD%%.%%MM%%.%%YY%%	b_16					16	1	1	1
+%%TIMESTAMP%%_00147	%%DD%%.%%MM%%.%%YY%%	b_16					16	1	1	2
+%%TIMESTAMP%%_00148	%%DD%%.%%MM%%.%%YY%%	b_16					16	1	1	3
+%%TIMESTAMP%%_00149	%%DD%%.%%MM%%.%%YY%%	b_17					16	1	1	1
+%%TIMESTAMP%%_00150	%%DD%%.%%MM%%.%%YY%%	b_17					16	1	1	2
+%%TIMESTAMP%%_00151	%%DD%%.%%MM%%.%%YY%%	b_17					16	1	1	3
+%%TIMESTAMP%%_00152	%%DD%%.%%MM%%.%%YY%%	b_18					16	1	1	1
+%%TIMESTAMP%%_00153	%%DD%%.%%MM%%.%%YY%%	b_18					16	1	1	2
+%%TIMESTAMP%%_00154	%%DD%%.%%MM%%.%%YY%%	b_18					16	1	1	3
+%%TIMESTAMP%%_00155	%%DD%%.%%MM%%.%%YY%%	b_19					16	1	1	1
+%%TIMESTAMP%%_00156	%%DD%%.%%MM%%.%%YY%%	b_19					16	1	1	2
+%%TIMESTAMP%%_00157	%%DD%%.%%MM%%.%%YY%%	b_19					16	1	1	3
+%%TIMESTAMP%%_00158	%%DD%%.%%MM%%.%%YY%%	b_20					16	1	1	1
+%%TIMESTAMP%%_00159	%%DD%%.%%MM%%.%%YY%%	b_20					16	1	1	2
+%%TIMESTAMP%%_00160	%%DD%%.%%MM%%.%%YY%%	b_20					16	1	1	3
+%%TIMESTAMP%%_00161	%%DD%%.%%MM%%.%%YY%%	b_21					16	1	1	1
+%%TIMESTAMP%%_00162	%%DD%%.%%MM%%.%%YY%%	b_21					16	1	1	2
+%%TIMESTAMP%%_00163	%%DD%%.%%MM%%.%%YY%%	b_21					16	1	1	3
+%%TIMESTAMP%%_00164	%%DD%%.%%MM%%.%%YY%%	b_22					16	1	1	1
+%%TIMESTAMP%%_00165	%%DD%%.%%MM%%.%%YY%%	b_22					16	1	1	2
+%%TIMESTAMP%%_00166	%%DD%%.%%MM%%.%%YY%%	b_22					16	1	1	3
+%%TIMESTAMP%%_00167	%%DD%%.%%MM%%.%%YY%%	b_23					16	1	1	1
+%%TIMESTAMP%%_00168	%%DD%%.%%MM%%.%%YY%%	b_23					16	1	1	2
+%%TIMESTAMP%%_00169	%%DD%%.%%MM%%.%%YY%%	b_23					16	1	1	3
+%%TIMESTAMP%%_00170	%%DD%%.%%MM%%.%%YY%%	b_24					16	1	1	1
+%%TIMESTAMP%%_00171	%%DD%%.%%MM%%.%%YY%%	b_24					16	1	1	2
+%%TIMESTAMP%%_00172	%%DD%%.%%MM%%.%%YY%%	b_24					16	1	1	3
+%%TIMESTAMP%%_00173	%%DD%%.%%MM%%.%%YY%%	b_25					16	1	1	1
+%%TIMESTAMP%%_00174	%%DD%%.%%MM%%.%%YY%%	b_25					16	1	1	2
+%%TIMESTAMP%%_00175	%%DD%%.%%MM%%.%%YY%%	b_25					16	1	1	3
+%%TIMESTAMP%%_00176	%%DD%%.%%MM%%.%%YY%%	b_26					16	1	1	1
+%%TIMESTAMP%%_00177	%%DD%%.%%MM%%.%%YY%%	b_26					16	1	1	2
+%%TIMESTAMP%%_00178	%%DD%%.%%MM%%.%%YY%%	b_26					16	1	1	3
+%%TIMESTAMP%%_00179	%%DD%%.%%MM%%.%%YY%%	b_27					16	1	1	1
+%%TIMESTAMP%%_00180	%%DD%%.%%MM%%.%%YY%%	b_27					16	1	1	2
+%%TIMESTAMP%%_00181	%%DD%%.%%MM%%.%%YY%%	b_27					16	1	1	3
+%%TIMESTAMP%%_00182	%%DD%%.%%MM%%.%%YY%%	b_28					16	1	1	1
+%%TIMESTAMP%%_00183	%%DD%%.%%MM%%.%%YY%%	b_28					16	1	1	2
+%%TIMESTAMP%%_00184	%%DD%%.%%MM%%.%%YY%%	b_28					16	1	1	3
+%%TIMESTAMP%%_00185	%%DD%%.%%MM%%.%%YY%%	b_29					16	1	1	1
+%%TIMESTAMP%%_00186	%%DD%%.%%MM%%.%%YY%%	b_29					16	1	1	2
+%%TIMESTAMP%%_00187	%%DD%%.%%MM%%.%%YY%%	b_29					16	1	1	3
+%%TIMESTAMP%%_00188	%%DD%%.%%MM%%.%%YY%%	b_30					16	1	1	1
+%%TIMESTAMP%%_00189	%%DD%%.%%MM%%.%%YY%%	b_30					16	1	1	2
+%%TIMESTAMP%%_00190	%%DD%%.%%MM%%.%%YY%%	b_30					16	1	1	3
+%%TIMESTAMP%%_00191	%%DD%%.%%MM%%.%%YY%%	b_31					16	1	1	1
+%%TIMESTAMP%%_00192	%%DD%%.%%MM%%.%%YY%%	b_31					16	1	1	2
+%%TIMESTAMP%%_00193	%%DD%%.%%MM%%.%%YY%%	b_31					16	1	1	3
+%%TIMESTAMP%%_00194	%%DD%%.%%MM%%.%%YY%%	b_32					16	1	1	1
+%%TIMESTAMP%%_00195	%%DD%%.%%MM%%.%%YY%%	b_32					16	1	1	2
+%%TIMESTAMP%%_00196	%%DD%%.%%MM%%.%%YY%%	b_32					16	1	1	3
