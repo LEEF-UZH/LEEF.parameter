@@ -1,11 +1,2 @@
-species
-Chlamydomonas
-Cryptomonas
-Coleps
-Colpidium
-Didinium
-Euplotes
-Loxocephallus
-Paramecium_bursaria
-Paramecium_caudatum
-Stylonychia
+composition, richness, Chlamydomonas, Cryptomonas, Coleps, Colpidium, Didinium, Euplotes, Loxocephallus, Paramecium_bursaria, Paramecium_caudatum, Stylonychia
+c_01, 10, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
