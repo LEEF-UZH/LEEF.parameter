@@ -1,4 +1,4 @@
-file	date	bottle	nutrient_treatment	temperature_nutrient	salt_treatment	replicate	magnification	dilution_factor	sample	video
+file	date	bottle	nutrient_treatment	temperature_treatment	salt_treatment	replicate	magnification	dilution_factor	sample	video
 %%TIMESTAMP%%_00001	%%DD%%.%%MM%%.%%YY%%	b_01					25	1	1	1
 %%TIMESTAMP%%_00002	%%DD%%.%%MM%%.%%YY%%	b_01					25	1	1	2
 %%TIMESTAMP%%_00003	%%DD%%.%%MM%%.%%YY%%	b_01					25	1	1	3
