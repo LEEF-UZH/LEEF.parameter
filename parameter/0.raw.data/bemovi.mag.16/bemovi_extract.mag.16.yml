@@ -89,7 +89,7 @@ crop_pixels:
 # classifiers and related parameter
 ##################################
 
-classifiers: "svm_video_classifiers_16x"
+classifiers: "svm_video_classifiers_16x.rds"
 
 species_tracked: 
 - Coleps_irchel
