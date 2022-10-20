@@ -22,8 +22,8 @@ timestamp: %%TIMESTAMP%%
 ### General Parameter ###
 #########################
 
-name: LEEF
-description: LEEF Data from an long term experiment. Some more detaled info has to
+name: LEEF-2
+description: LEEF-2 Data from an long term experiment. Some more detaled info has to
   follow.
 
 #########################

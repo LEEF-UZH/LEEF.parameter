@@ -1,16 +1,2 @@
-composition,richness,Chlamydomonas,Cryptomonas,Monoraphidium,Cosmarium,Staurastrum1,Staurastrum2,Desmodesmus,Tetrahymena,Colpidium,Loxocephallus,Dexiostoma,Paramecium_caudatum,Stylonychia1,Stylonychia2,Coleps_irchel,Paramecium_bursaria,Euplotes,Didinium
-c_01,7,1,1,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,1
-c_02,7,1,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1
-c_03,7,1,1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,1,1
-c_04,7,1,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,1,1
-c_05,7,1,1,0,0,0,0,1,0,1,0,0,0,0,0,1,1,0,1
-c_06,10,1,1,1,0,0,0,1,0,0,1,1,1,1,0,0,0,1,1
-c_07,10,1,1,0,0,1,1,0,0,1,1,0,1,0,1,0,1,0,1
-c_08,10,1,1,0,1,0,0,1,1,0,1,0,1,0,0,1,1,0,1
-c_09,10,1,1,1,0,1,0,0,1,1,0,0,0,1,0,1,1,0,1
-c_10,10,1,1,0,1,0,1,0,0,1,0,1,0,0,1,1,0,1,1
-c_11,14,1,1,0,1,1,0,1,1,1,1,0,1,0,1,1,1,1,1
-c_12,14,1,1,1,1,1,0,0,0,1,1,1,1,0,1,1,1,1,1
-c_13,14,1,1,1,1,0,1,0,1,1,1,0,1,1,0,1,1,1,1
-c_14,14,1,1,0,0,1,1,1,0,1,1,1,1,1,0,1,1,1,1
-c_15,14,1,1,1,0,0,1,1,0,1,1,1,1,0,1,1,1,1,1
+composition, richness, Chlamydomonas, Cryptomonas, Coleps, Colpidium, Didinium, Euplotes, Loxocephallus, Paramecium_bursaria, Paramecium_caudatum, Stylonychia
+c_01, 10, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
