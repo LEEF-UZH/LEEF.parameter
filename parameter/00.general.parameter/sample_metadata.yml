@@ -9,6 +9,7 @@ flowcam_samples: <<TO BE ENTERED>>
 flowcytometer_samples: <<TO BE ENTERED>>
 manual_count_samples: <<TO BE ENTERED>>
 o2meter_samples: <<TO BE ENTERED>>
+conductivity_samples: <<TO BE ENTERED>>
 
 #########################
 ### sampling day      ###
