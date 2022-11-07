@@ -9,6 +9,7 @@ flowcam_samples: <<TO BE ENTERED>>
 flowcytometer_samples: <<TO BE ENTERED>>
 manual_count_samples: <<TO BE ENTERED>>
 o2meter_samples: <<TO BE ENTERED>>
+conductivity_samples: <<TO BE ENTERED>>
 
 #########################
 ### sampling day      ###
@@ -23,7 +24,7 @@ timestamp: %%TIMESTAMP%%
 #########################
 
 name: LEEF-2
-description: LEEF-2 Data from an long term experiment. Some more detaled info has to
+description: LEEF-2 Data from a long term experiment. Some more detailed info has to
   follow.
 
 #########################
