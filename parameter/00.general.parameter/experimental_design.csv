@@ -1,4 +1,4 @@
-bottles,incubator,temperature,resources,salinity,replicate
+bottle,incubator,temperature,resources,salinity,replicate
 b_01,A,increasing,constant,constant,1
 b_02,A,increasing,increasing,increasing,1
 b_03,A,increasing,increasing,constant,1

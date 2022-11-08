@@ -1,6 +1,9 @@
 
 # Releases of parameter sets without LEEF specification, refer to the first LEEF experiment.
 
+# v2.0.2 
+- added missing return to flowcam.yml
+- fixed typo in experimental design (bottles instead of bottle)
 
 # v2.0.1-LEEF-2: Final changes
 - Formating change in conductivity.xlsx
