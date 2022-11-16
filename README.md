@@ -1,6 +1,10 @@
 
 # Releases of parameter sets without LEEF specification, refer to the first LEEF experiment.
 
+
+# v2.0.4
+- added missing `flowcam.yml`
+
 # v2.0.3
 - added missing `.rds` to classifiers in bemovi_mag_25
 
