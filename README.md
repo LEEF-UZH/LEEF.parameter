@@ -1,3 +1,15 @@
+
+# Releases of parameter sets without LEEF specification, refer to the first LEEF experiment.
+
+
+# v2.0.1-LEEF-2: Final changes
+- Formating change in conductivity.xlsx
+- added directories with dummy files in flowcytometer
+
+# v2.0.0-LEEF-2: initial release for LEEF-2
+
+
+
 # v1.6.1: Added flowcam classifier for bottle b_05
 Bottle b_05 has been contaminated at 20220504. b_05 should be classified after
 that date using this classifier
@@ -39,7 +51,7 @@ control).
   cropped are used, but the video is NOT cropped.
 
 # v1.0.1: added 'filtration' and 'flowcell' columns to the file
-# 'flowcam/flowcam_dilution.csv'
+  'flowcam/flowcam_dilution.csv'
   These are carried through to the table 'flowcam__algae_traits' in the RRD
   database
 
