@@ -2,6 +2,9 @@
 # Releases of parameter sets without LEEF specification, refer to the first LEEF experiment.
 
 
+# v2.0.5
+- changed dilution factors for flowcytometer and flowcam
+
 # v2.0.4
 - added missing `flowcam.yml`
 
