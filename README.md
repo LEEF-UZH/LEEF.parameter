@@ -1,6 +1,13 @@
 
 # Releases of parameter sets without LEEF specification, refer to the first LEEF experiment.
 
+# v2.1.1
+- changed README.md
+
+# v2.1.0
+- change inbemovi.mag.25 parameter and tracked species
+- removal of LEEF-1 treatment files
+
 
 # v2.0.5
 - changed dilution factors for flowcytometer and flowcam
