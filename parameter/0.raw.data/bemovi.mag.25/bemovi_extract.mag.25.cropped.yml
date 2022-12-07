@@ -92,12 +92,6 @@ crop_pixels:
 classifiers: "svm_video_classifiers_25x.rds"
 
 species_tracked: 
-- Coleps_irchel
-- Colpidium
-- Stylonychia2
-- Paramecium_caudatum
-- Paramecium_bursaria
-- Euplotes
 - Loxocephallus
 - Debris_and_other
 - Cryptomonas

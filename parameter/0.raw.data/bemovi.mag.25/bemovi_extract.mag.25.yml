@@ -47,7 +47,7 @@ difference.lag: 10.0
 thresholds:
 - 10.0
 - 255.0
-min_size: 35.27881
+min_size: 17.63941
 max_size: 2000.0
 
 ##################################
@@ -70,7 +70,7 @@ duration_filter: 0.28
 # filter 2
 ##################################
 
-min_area: 600
+min_area: 300
 max_area: 50000
 
 extrapolation.factor: 23.367
