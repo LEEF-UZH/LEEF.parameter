@@ -1,5 +1,10 @@
-# v1.6.1: Added flowcam classifier for bottle b_05
-Bottle b_05 has been contaminated at 20220504. b_05 should be classified after
+# v1.7.0: new classifiers for flowcam 
+The flowcam classifier has been updated by using data from the experiment in addition 
+to the stock culture data to improve to performance. The classifier for the contaminated 
+bottle has also been updated.
+
+# v1.6.1: Added flowcam classifier for bottle b_02
+Bottle b_02 has been contaminated at 20220504. b_02 should be classified after
 that date using this classifier
 `svm_flowcam_classifiers_B02_contaminated_after_20220504_20220710_MergedData.rds
 ` for the flowcam.
