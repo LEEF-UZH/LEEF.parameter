@@ -1,6 +1,8 @@
 
 # Releases of parameter sets without LEEF specification, refer to the first LEEF experiment.
 
+- added treatment/stressor_levels.csv
+
 # v2.1.1
 - changed README.md
 
