@@ -1,3 +1,5 @@
+# v1.7.1: Bug fix release: Change flowcam.yml to new classifier name
+
 # v1.7.0: new classifiers for flowcam 
 The flowcam classifier has been updated by using data from the experiment in addition 
 to the stock culture data to improve to performance. The classifier for the contaminated 
