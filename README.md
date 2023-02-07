@@ -1,3 +1,5 @@
+# v1.8.0: Update Flowcytometer gates
+
 # v1.7.1: Bug fix release: Change flowcam.yml to new classifier name
 
 # v1.7.0: new classifiers for flowcam 
