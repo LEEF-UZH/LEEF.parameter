@@ -1,3 +1,6 @@
+# v1.8.1: added size standard flowcytometer for calculating volume of particles
+  Original fileneme: size_standard_20220720.csv
+
 # v1.8.0: Update Flowcytometer gates
 
 # v1.7.1: Bug fix release: Change flowcam.yml to new classifier name
