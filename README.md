@@ -1,3 +1,7 @@
+#v1.8.2b: Beta Release.
+- Changed gates to using H instead of H 
+- Added conversion parameter from FSC.A to length of particles
+
 # v1.8.1: added size standard flowcytometer for calculating volume of particles
   Original fileneme: size_standard_20220720.csv
 
