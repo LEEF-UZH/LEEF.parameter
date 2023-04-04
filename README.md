@@ -1,3 +1,5 @@
+# v1.8.5: Finalised parameter for FSC.A -> length calculations
+
 # v1.8.4b: Beta Release
  - addad Flowcytometer gates for EAWAG flowcytometer measurements
 
