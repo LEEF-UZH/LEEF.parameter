@@ -1,7 +1,11 @@
 
 # Releases of parameter sets without LEEF specification, refer to the first LEEF experiment.
 
-- added treatment/stressor_levels.csv
+# v2.2.2: changes to flowcytometer and flowcam
+- removed `parameter/0.raw.data/flowcam/flowcam_dilution.csv` as added manually anyway and differs between days
+- updated `parameter/0.raw.data/flowcytometer/metadata_flowcytometer.csv`
+- added `treatment/stressor_levels.csv`
+
 # v2.2.0: Dilution rates in flowcytometer changed
 
 # v2.1.1
