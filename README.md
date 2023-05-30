@@ -1,6 +1,8 @@
 
 # Releases of parameter sets without LEEF specification, refer to the first LEEF experiment.
 
+# v3.0.1-LEEF-2: Update of LEEF 2 classifiers and change in flowcam species
+
 # v2.2.2: changes to flowcytometer and flowcam
 - removed `parameter/0.raw.data/flowcam/flowcam_dilution.csv` as added manually anyway and differs between days
 - updated `parameter/0.raw.data/flowcytometer/metadata_flowcytometer.csv`

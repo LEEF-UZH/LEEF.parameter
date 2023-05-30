@@ -8,9 +8,13 @@ species_tracked:
 - ColpidiumVacuoles
 - Debris
 - OtherCiliate
-- ChlamydomonasClumps
 - Coleps_irchel
 - Colpidium
 - DigestedAlgae
 - Small_unidentified
 - DividingChlamydomonas
+- ChlamydomonasClumpsLarge
+- ChlamydomonasClumpsSmall
+- CiliateCysts
+- CystsWhite
+- DigestedWhite
