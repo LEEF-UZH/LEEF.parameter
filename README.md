@@ -1,33 +1,33 @@
 
 # Releases of parameter sets without LEEF specification, refer to the first LEEF experiment.
 
-# v3.0.1-LEEF-2: Update of LEEF 2 classifiers and change in flowcam species
+# v2.3.0-LEEF-2: Update of LEEF 2 classifiers and change in flowcam species
 
-# v2.2.2: changes to flowcytometer and flowcam
+# v2.2.2-LEEF-2: changes to flowcytometer and flowcam
 - removed `parameter/0.raw.data/flowcam/flowcam_dilution.csv` as added manually anyway and differs between days
 - updated `parameter/0.raw.data/flowcytometer/metadata_flowcytometer.csv`
 - added `treatment/stressor_levels.csv`
 
-# v2.2.0: Dilution rates in flowcytometer changed
+# v2.2.0-LEEF-2: Dilution rates in flowcytometer changed
 
-# v2.1.1
+# v2.1.1-LEEF-2
 - changed README.md
 
-# v2.1.0
+# v2.1.0-LEEF-2
 - change inbemovi.mag.25 parameter and tracked species
 - removal of LEEF-1 treatment files
 
 
-# v2.0.5
+# v2.0.5-LEEF-2
 - changed dilution factors for flowcytometer and flowcam
 
-# v2.0.4
+# v2.0.4-LEEF-2
 - added missing `flowcam.yml`
 
-# v2.0.3
+# v2.0.3-LEEF-2
 - added missing `.rds` to classifiers in bemovi_mag_25
 
-# v2.0.2 
+# v2.0.2-LEEF-2
 - added missing return to flowcam.yml
 - fixed typo in experimental design (bottles instead of bottle)
 
@@ -36,6 +36,7 @@
 - added directories with dummy files in flowcytometer
 
 # v2.0.0-LEEF-2: initial release for LEEF-2
+
 
 
 
