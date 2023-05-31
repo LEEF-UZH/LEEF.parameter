@@ -1,6 +1,8 @@
 
 # Releases of parameter sets without LEEF specification, refer to the first LEEF experiment.
 
+# v2.3.1-LEEF-2: Add size standards and FSC A to size conversion parameter
+
 # v2.3.0-LEEF-2: Update of LEEF 2 classifiers and change in flowcam species
 
 # v2.2.2-LEEF-2: changes to flowcytometer and flowcam
