@@ -1,6 +1,8 @@
 
 # Releases of parameter sets without LEEF specification, refer to the first LEEF experiment.
 
+# v2.3.6-LEEF-2: flowcytometer: new gates_cordinates.
+
 # v2.3.5-LEEF-2: flowcam.yml: added "Small_cells" to species tracked
 
 # v2.3.3-LEEF-2: Change of flowcytometer dilutions
