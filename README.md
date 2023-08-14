@@ -1,6 +1,8 @@
 
 # Releases of parameter sets without LEEF specification, refer to the first LEEF experiment.
 
+# v2.3.8-LEEF-2: New bemovi classifier for 25x and 16x videos, and new Flowcam classifier. The following classes are no longer tracked: airbubbles, Cryptomonas. The .yml changed accordingly.
+
 # v2.3.7-LEEF-2: new bemovi classifier for 25x and 16x videos
 
 # v2.3.6-LEEF-2: flowcytometer: new gates_cordinates.
