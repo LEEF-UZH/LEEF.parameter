@@ -2,9 +2,7 @@ classifiers: svm_flowcam_classifiers.rds
 
 species_tracked:  
 - Chlamydomonas
-- Cryptomonas
 - Loxocephallus
-- airbubbles
 - ColpidiumVacuoles
 - Debris
 - OtherCiliate

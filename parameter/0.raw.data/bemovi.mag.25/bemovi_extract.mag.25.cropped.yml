@@ -94,7 +94,6 @@ classifiers: "svm_video_classifiers_25x.rds"
 species_tracked: 
 - Loxocephallus
 - Debris_and_other
-- Cryptomonas
 
 # cropping.factor: area original / area cropped
 
