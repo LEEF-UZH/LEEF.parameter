@@ -3,11 +3,8 @@ classifiers: svm_flowcam_classifiers.rds
 species_tracked:  
 - Chlamydomonas
 - Loxocephallus
-- ColpidiumVacuoles
 - Debris
 - OtherCiliate
-- Coleps_irchel
-- Colpidium
 - DigestedAlgae
 - Small_unidentified
 - DividingChlamydomonas
